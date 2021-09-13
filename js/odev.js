@@ -32,5 +32,3 @@ function showTime(){
     document.getElementById("span").innerHTML = currentTime;
     
 }
-
-console.log(!!2)
